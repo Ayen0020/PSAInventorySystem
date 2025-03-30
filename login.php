@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digitail Login</title>
+    <title>PSA Login</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +16,7 @@
     <div class="container">
         <div class="left-container">
             <div class="logo-container">
-                <img src="imgs/logo.jpg" alt="Digitail Logo">
+                <img src="imgs\imgs\logo.jpg" alt="Logo">
             </div>
         </div>
         <div class="right-container">
