@@ -16,7 +16,7 @@
     <div class="container">
         <div class="left-container">
             <div class="logo-container">
-                <img src="imgs\imgs\logo.jpg" alt="Logo">
+                <img src="imgs/logo.jpg" alt="Logo">
             </div>
         </div>
         <div class="right-container">
